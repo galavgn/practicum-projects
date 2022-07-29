@@ -14,4 +14,4 @@ These projects were complited for Practicum's Data Analyst professional training
 | [Gym Chain Model Fitness Churn Prediction](https://github.com/galavgn/practicum-projects/tree/main/churn_prediction)|We've forecast and predict customer churn rate using machine learning|pandas, numpy, sckipy, matplotlib, seaborn,plotly,datetime, math|
 |[SQL Project Book Store](https://github.com/galavgn/practicum-projects/tree/main/sql_book_store_final)|We enerated and retrieved enough information to provide a basis for building a new product related to the field of books apps|sqlalchemy, pandas|
 |[A/B Tesing Project](https://github.com/galavgn/practicum-projects/tree/main/checking_ab_test_final)|We checked and analyzed A/B test for international online store according to technical description|pandas, numpy, sckipy, matplotlib, seaborn,plotly,datetime, math|
-|Presentation|We prepared some market research in current market conditions to attract investors and open cafe| powerpoint|
+|[Presentation](https://1drv.ms/p/s!AgcVvIhkY1fZjHO4t7Scwa-rfkM-?e=h6JxtJ)|We prepared some market research in current market conditions to attract investors and open cafe| powerpoint|
