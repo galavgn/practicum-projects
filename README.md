@@ -16,4 +16,4 @@ These projects were complited for Practicum's Data Analyst professional training
 |[A/B Tesing Project](https://github.com/galavgn/practicum-projects/tree/main/checking_ab_test_final)|We checked and analyzed A/B test for international online store according to technical description|pandas, numpy, sckipy, matplotlib, seaborn,plotly,datetime, math|
 |[Presentation](https://1drv.ms/p/s!AgcVvIhkY1fZjHO4t7Scwa-rfkM-?e=h6JxtJ)|We prepared some market research in current market conditions to attract investors and open cafe| powerpoint|
 |[Dashboard](https://public.tableau.com/app/profile/gulnara.nurmanbetova/viz/DashBoard_2022/Dashboard1)|We buid dashboard to answer the questions the managers |Tableau|
-|Mobile Apps |User Segmentation Based on Behavior |pandas, numpy, sckipy, matplotlib, seaborn,plotly,datetime|
+|[Mobile Apps](https://github.com/galavgn/practicum-projects/tree/main/mobile_app_final) |User Segmentation Based on Behavior |pandas, numpy, sckipy, matplotlib, seaborn,plotly,datetime|
